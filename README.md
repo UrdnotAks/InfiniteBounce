@@ -12,7 +12,7 @@ There are two power-ups in the game. The cooldown time for both the power-ups is
   2) The Merger:  This power-up pairs up all the blue balls present on screen. This also increases the size of the blue balls.
   
 # Running the game
-Download all files and place it in the same folder. Run using any python IDE. You must have pygame installed on your system on top of python 3.6 or higher.
+Download all files and place it in the same folder. Run the 'InfiniteBounce.py' file using any python IDE. You must have pygame installed on your system on top of python 3.6 or higher.
 
 # Bugs
 1) I've never actually went that far into the game to encounter this bug. When you use the merger power-up for a number of times, the blue balls grow bigger and bigger resulting in a collision between the red ball and the player can't do anything to prevent that. Also, it hits the wall which results in a game over.
